@@ -6,11 +6,11 @@ This is a user login and registration app using Node.js, Express, Passport, Mong
 ### Usage
 
 ```sh
-$ git clone 
+$ git clone https://github.com/FERDIZ-afk/login-register-Monggodb
 ```
 
 ```sh
-$ cd 
+$ cd login-register-Monggodb
 ```
 
 ```sh
