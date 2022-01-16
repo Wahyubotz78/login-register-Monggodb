@@ -1,4 +1,4 @@
-# Login adn register system using Node.js
+# Login adn register system using Node.js and Monggodb
 
 This is a user login and registration app using Node.js, Express, Passport, Mongoose, EJS and some other packages.
 
