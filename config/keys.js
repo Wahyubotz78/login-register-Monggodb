@@ -1,3 +1,3 @@
 module.exports ={
-    mongoURI: 'isi url Monggodb lu ngap'
+    mongoURI: 'mongodb+srv://ariaptra11:Helenasyg3@cluster0.omwus.mongodb.net/myFirstDatabase?retryWrites=true&w=majority '
 }
